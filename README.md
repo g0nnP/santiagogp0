@@ -1,9 +1,9 @@
-### Hello, i'm Santiago :sunglasses:
+## Hello, i'm Santiago :sunglasses:
 ---
-#### i'm just a little developer, learning new stuff every day. :books:
+### i'm just a little developer, learning new stuff every day. :books:
 <br>
 
-### My knowledge:
+## My knowledge:
 
 |Framework | Language |
 |-----------|-----------|
@@ -14,7 +14,7 @@
 <br>
 <br>
 
-### You can also find me on :mailbox_with_mail:
+## You can also find me on :mailbox_with_mail:
 
 ![Instagram](https://img.shields.io/badge/santiago.gp1%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white "https://www.instagram.com/santiago.gp1/") ![Twitter](https://img.shields.io/badge/santiago__gp1%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white "https://twitter.com/santiago_gp1")
 
